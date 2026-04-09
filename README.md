@@ -1,6 +1,6 @@
-# 🚗 Carwale: Full-Stack Car Buying Web App
+# 🚗 CarHub: Full-Stack Car Buying Web App
 
-**Carwale** is a comprehensive car buying platform built using the MERN stack, comprising **Node.js**, **React.js**, **MongoDB**, and **Express.js**. The application is designed to provide **users** with an effortless and **enjoyable experience** while browsing and purchasing cars from a vast collection of vehicles.
+**CarHub** is a comprehensive car buying platform built using the MERN stack, comprising **Node.js**, **React.js**, **MongoDB**, and **Express.js**. The application is designed to provide **users** with an effortless and **enjoyable experience** while browsing and purchasing cars from a vast collection of vehicles.
 
 ---
 
@@ -47,7 +47,7 @@
 ---
 
 **Please Give it a ⭐ Star if you like it...** <br/>
-**Live Link :- https://carwale.onrender.com**
+
 
 ---
 
