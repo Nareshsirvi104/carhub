@@ -1,0 +1,15 @@
+demo for multer
+const multer = require("multer");
+
+const storage = multez.diskStorage({
+  destination: function (req, file, cb) {
+    cb(null, "uploads/"); // folder create kar lena
+  },
+  filename: function (req, file, cb) {
+    cb(null, Date.now() + "-" + file.originalname);
+  },
+});
+
+const upload = multer({ storage });
+
+module.exports = upload;
